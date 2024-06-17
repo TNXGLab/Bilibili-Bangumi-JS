@@ -96,3 +96,5 @@ Hugo 等其它静态博客用户再等等吧，欢迎好心人开发其它博客
 - [Red-Asuka/bilibili-bangumi-api](https://github.com/Red-Asuka/bilibili-bangumi-api.git) - 提供后端实现
 - [AlanDecode/PandaBangumi-Typecho-Plugin](https://github.com/AlanDecode/PandaBangumi-Typecho-Plugin) - 提供前端 CSS 原型
 - [SukkaW/DisqusJS](https://github.com/SukkaW/DisqusJS) - 提供示例页面的 CSS 样式
+
+
